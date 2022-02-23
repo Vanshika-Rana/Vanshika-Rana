@@ -18,4 +18,9 @@
 ## Latest Blogs and Tutorials
 
 <!-- BLOG-POST-LIST:START -->
+- [Web 3.0 Jargons: Explained](https://aahiknsv.hashnode.dev/web-30-jargons-explained)
+- [How to Send Emails in Node JS using the SendGrid API](https://aahiknsv.hashnode.dev/how-to-send-emails-in-node-js-using-the-sendgrid-api)
+- [useState&lpar;&rpar;: Understanding the Hook with Counter Application](https://aahiknsv.hashnode.dev/usestate-understanding-the-hook-with-counter-application)
+- [dApps: Are they the future?](https://aahiknsv.hashnode.dev/dapps-are-they-the-future)
+- [Few technologies to look out for in 2022](https://aahiknsv.hashnode.dev/few-technologies-to-look-out-for-in-2022)
 <!-- BLOG-POST-LIST:END -->
