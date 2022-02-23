@@ -14,7 +14,7 @@
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" style="padding-right:10px;"/>
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;"/>
 
-# Latest Blogs and Tutorials
+## Latest Blogs and Tutorials
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
