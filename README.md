@@ -4,7 +4,7 @@
 - ✍🏻 I write blogs and tutorials to make development a bit easy.
 - ⛓️ I am currently learning and exploring BLOCKCHAIN.
 - 🎯 Goal 2022: More Open Source contributions.
-
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Vanshika-Rana)](https://github.com/Vanshika-Rana/github-readme-stats)
 ## Tech Stack
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="padding-right:10px;" />
