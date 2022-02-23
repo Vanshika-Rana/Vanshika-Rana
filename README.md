@@ -4,3 +4,14 @@
 - ✍🏻 I write blogs and tutorials to make development a bit easy.
 - ⛓️ I am currently learning and exploring BLOCKCHAIN.
 - 🎯 Goal 2022: More Open Source contributions.
+
+## Tech Stack
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />]
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />]
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />]
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />]
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />]
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />]
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />]
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />]
