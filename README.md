@@ -3,7 +3,7 @@
 - 👩🏻‍💻 I like to build cool stuff.
 - ✍🏻 I write blogs and tutorials to make development a bit easy.
 - ⛓️ I am currently learning and exploring BLOCKCHAIN.
-- 🎯 Goal 2022: More Open Source contributions.
+- 🎯 Goal 2024: Become a classy Developer!!
 
 ## Stats📈
 <img align="center" alt="Vanshika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vanshika-Rana" />
