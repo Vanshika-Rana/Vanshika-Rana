@@ -21,6 +21,7 @@
 ## Latest Blogs and Tutorials
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn to use Supabase with Next JS - A Beginner Friendly Application](https://aahiknsv.hashnode.dev/learn-to-use-supabase-with-next-js-a-beginner-friendly-application)
 - [Building a TODO Application in Solidity](https://aahiknsv.hashnode.dev/building-a-todo-application-in-solidity)
 - [Web 3.0 Jargons: Explained](https://aahiknsv.hashnode.dev/web-30-jargons-explained)
 - [How to Send Emails in Node JS using the SendGrid API](https://aahiknsv.hashnode.dev/how-to-send-emails-in-node-js-using-the-sendgrid-api)
